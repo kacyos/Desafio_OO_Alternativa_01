@@ -1,0 +1,15 @@
+C:\Users\cacio\source\repos\Desafio_OO_Alternativa_01\Desafio_OO_Alternativa_01\bin\Debug\net6.0\Desafio_OO_Alternativa_01.exe
+C:\Users\cacio\source\repos\Desafio_OO_Alternativa_01\Desafio_OO_Alternativa_01\bin\Debug\net6.0\Desafio_OO_Alternativa_01.deps.json
+C:\Users\cacio\source\repos\Desafio_OO_Alternativa_01\Desafio_OO_Alternativa_01\bin\Debug\net6.0\Desafio_OO_Alternativa_01.runtimeconfig.json
+C:\Users\cacio\source\repos\Desafio_OO_Alternativa_01\Desafio_OO_Alternativa_01\bin\Debug\net6.0\Desafio_OO_Alternativa_01.dll
+C:\Users\cacio\source\repos\Desafio_OO_Alternativa_01\Desafio_OO_Alternativa_01\bin\Debug\net6.0\Desafio_OO_Alternativa_01.pdb
+C:\Users\cacio\source\repos\Desafio_OO_Alternativa_01\Desafio_OO_Alternativa_01\obj\Debug\net6.0\Desafio_OO_Alternativa_01.csproj.AssemblyReference.cache
+C:\Users\cacio\source\repos\Desafio_OO_Alternativa_01\Desafio_OO_Alternativa_01\obj\Debug\net6.0\Desafio_OO_Alternativa_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cacio\source\repos\Desafio_OO_Alternativa_01\Desafio_OO_Alternativa_01\obj\Debug\net6.0\Desafio_OO_Alternativa_01.AssemblyInfoInputs.cache
+C:\Users\cacio\source\repos\Desafio_OO_Alternativa_01\Desafio_OO_Alternativa_01\obj\Debug\net6.0\Desafio_OO_Alternativa_01.AssemblyInfo.cs
+C:\Users\cacio\source\repos\Desafio_OO_Alternativa_01\Desafio_OO_Alternativa_01\obj\Debug\net6.0\Desafio_OO_Alternativa_01.csproj.CoreCompileInputs.cache
+C:\Users\cacio\source\repos\Desafio_OO_Alternativa_01\Desafio_OO_Alternativa_01\obj\Debug\net6.0\Desafio_OO_Alternativa_01.dll
+C:\Users\cacio\source\repos\Desafio_OO_Alternativa_01\Desafio_OO_Alternativa_01\obj\Debug\net6.0\refint\Desafio_OO_Alternativa_01.dll
+C:\Users\cacio\source\repos\Desafio_OO_Alternativa_01\Desafio_OO_Alternativa_01\obj\Debug\net6.0\Desafio_OO_Alternativa_01.pdb
+C:\Users\cacio\source\repos\Desafio_OO_Alternativa_01\Desafio_OO_Alternativa_01\obj\Debug\net6.0\Desafio_OO_Alternativa_01.genruntimeconfig.cache
+C:\Users\cacio\source\repos\Desafio_OO_Alternativa_01\Desafio_OO_Alternativa_01\obj\Debug\net6.0\ref\Desafio_OO_Alternativa_01.dll
